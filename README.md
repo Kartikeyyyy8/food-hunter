@@ -1,6 +1,14 @@
-# shoppingsite
-Watch it on youtube now...
-https://www.youtube.com/watch?v=GiWJQOin5dk
+🚀 Food Hunter is a responsive food delivery web application built using HTML, CSS, and JavaScript. It allows users to explore various dishes, browse featured food items, and simulate ordering from a user-friendly interface. Designed for performance and mobile responsiveness, Food Hunter aims to deliver a seamless experience in food discovery and delivery simulations.
+
+Tech Stack:
+
+1.HTML (structure)
+
+2.CSS (styling & layout)
+
+3.JavaScript (interactivity & dynamic behavior)
+
+
 
 Some screenshots from the project
 
@@ -16,10 +24,3 @@ Some screenshots from the project
 
 
 
-![127 0 0 1_5501_index html(iPhone 6_7_8) (1)](https://user-images.githubusercontent.com/68517660/138283072-c5615461-d397-4a16-ad1f-8538dd0104cd.png)
-
-
-
-
-
-![127 0 0 1_5501_index html(iPhone 6_7_8) (2)](https://user-images.githubusercontent.com/68517660/138283097-b0d813e7-28af-4e54-bfca-f10c03effa8c.png)
